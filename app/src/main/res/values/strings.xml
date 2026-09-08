@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LockGlow</string>
+
+    <string name="setup_need_overlay">LockGlow needs permission to draw the fingerprint glow on top of your screen.</string>
+    <string name="setup_need_notifications">LockGlow needs notification permission to keep running reliably in the background.</string>
+    <string name="setup_need_battery">Exempt LockGlow from battery optimization so Android doesn\'t stop it.</string>
+    <string name="setup_need_fingerprint">No fingerprint is enrolled yet. Add one to use LockGlow.</string>
+    <string name="setup_complete">All set! Tap below to activate your lock screen.</string>
+
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="start_lock">Activate Lock</string>
+    <string name="lock_active">LockGlow is now active</string>
+
+    <string name="unlock_title">Unlock</string>
+    <string name="unlock_subtitle">Place your finger on the sensor</string>
+    <string name="use_device_lock">Use device lock instead</string>
+    <string name="no_biometric_hardware">Fingerprint unlock isn\'t available on this device.</string>
+    <string name="too_many_attempts">Too many attempts. Use your device lock screen.</string>
+    <string name="attempts_remaining">%1$d attempt(s) remaining</string>
+
+    <string name="notification_channel_name">LockGlow Protection</string>
+    <string name="notification_title">LockGlow is active</string>
+    <string name="notification_text">Your screen is protected</string>
+</resources>
